@@ -20,7 +20,7 @@
             "value": 22.50,
             "createAt": "10/02/2019",
             "hour": "10:34",
-            "status": "confirmed"
+            "status": "pendent"
         },
         {
             "id": 3,
@@ -31,7 +31,7 @@
             "value": 123.56,
             "createAt": "10/02/2019",
             "hour": "11:51",
-            "status": "finalized"
+            "status": "pendent"
         },
         {
             "id": 4,
@@ -42,7 +42,7 @@
             "value": 5.33,
             "createAt": "10/02/2019",
             "hour": "16:50",
-            "status": "separated"
+            "status": "pendent"
         },
         {
             "id": 5,
