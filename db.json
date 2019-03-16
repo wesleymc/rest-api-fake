@@ -8,6 +8,7 @@
             "nItens": 4,
             "value": 29.43,
             "createAt": "10/02/2019",
+            "hour": "15:44",
             "status": "pendent"
         },
         {
@@ -18,6 +19,7 @@
             "nItens": 4,
             "value": 22.50,
             "createAt": "10/02/2019",
+            "hour": "10:34",
             "status": "confirmed"
         },
         {
@@ -28,6 +30,7 @@
             "nItens": 4,
             "value": 123.56,
             "createAt": "10/02/2019",
+            "hour": "11:51",
             "status": "finalized"
         },
         {
@@ -38,6 +41,7 @@
             "nItens": 4,
             "value": 5.33,
             "createAt": "10/02/2019",
+            "hour": "16:50",
             "status": "separated"
         },
         {
@@ -48,6 +52,7 @@
             "nItens": 4,
             "value": 95.33,
             "createAt": "10/02/2019",
+            "hour": "10:24",
             "status": "pendent"
         }
     ]
